@@ -1,24 +1,20 @@
-Requirements:
-* ES_EXTENDED
-* ESX_MENU_DEFAULT
-* ESX_MENU_DIALOG
-* ESX_MENU_LIST
-* ESX_STATUS
-* ESX_BASICNEEDS
+# 安装要求:
+* [es_extended](https://github.com/ESX-CN/es_extended)
+* [esx_menu_default](https://github.com/ESX-CN/esx_menu_default)
+* [esx_menu_dialog](https://github.com/ESX-CN/esx_menu_dialog)
+* [esx_menu_list](https://github.com/ESX-CN/esx_menu_list)
+* [esx_status](https://github.com/ESX-CN/esx_status)
+* [esx_basicneeds](https://github.com/ESX-CN/esx_basicneeds)
 
-Features:
-* Plenty of exercises such as Yoga, Situps, Pushups, Weights, Chins/pull-ups, Bicycle exercise (rental).
-* In order to exercise you need to purchase the gym membership in the gym menu.
-* After you've done an exercise there'll be a cooldown for 60 seconds which means you can't do any exercise for 60 seconds.
-* A gym shop where you can purchase: water, sportlunch, protein shake, Powerade & bandage.
-* Business hours, pretty much it just prints that the gym is open 24hrs/ day.
-* Before any exercise the script will ALWAYS doublecheck if the player actually has a membership or not, if the player needs to rest or not and if the player already is training or not etc.
-* The script doesn't really take too much CPU usage, I've never received a script warning from ESX_GYM.
-* The bandage is giving the player their max health divided with 3 + their current health.
+# 本插件特征:
+* 大量的运动，如瑜伽，仰卧起坐，俯卧撑，重量，下巴/引体向上，自行车运动（租赁）。
+* 为了锻炼身体，您需要在健身房菜单中购买健身房会员资格。
+* 锻炼完成后，冷却时间为60秒，这意味着你可以在60秒内完成任何运动。
+* 你可以在健身房购买：水、运动午餐、蛋白质奶昔、运动饮料、绷带。
+* 7*24小时开放。
+* 在进行任何练习之前，如果玩家确实有会员资格，玩家是否需要休息以及玩家是否已经在训练等，那么脚本总是会进行双重检查。
+* 对CPU占用极低。
+* 绷带给予玩家最大生命值3分+当前生命值。
 
-Installation:
-1. Extract esx_gym.rar into your resource folder.
-2. Start the script in your server.cfg or wherever you start scripts. Correct row: **start esx_gym**
-3. Import the esx_gym.sql into your database (table: items) or do it manually.
-4. Start/Restart your server.
-5. Done, have a good time at the gym and get healthy!
+# 安装教程
+我都懒得写。

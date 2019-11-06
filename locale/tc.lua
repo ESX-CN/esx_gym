@@ -1,4 +1,4 @@
-Locales['zh'] = {
+Locales['tc'] = {
     ['used_bandage'] = "妳使用了壹個~g~繃帶",
     ['hire_bike'] = "按 ~INPUT_CONTEXT~ 租賃壹輛~b~自行車",
     ['have_vehicle'] = "妳已經有壹輛~r~自行車~w~了",

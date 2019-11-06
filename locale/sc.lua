@@ -1,4 +1,4 @@
-Locales['cn'] = {
+Locales['sc'] = {
     ['used_bandage'] = "你使用了一个~g~绷带",
     ['hire_bike'] = "按 ~INPUT_CONTEXT~ 租赁一辆~b~自行车",
     ['have_vehicle'] = "你已经有一辆~r~自行车~w~了",
